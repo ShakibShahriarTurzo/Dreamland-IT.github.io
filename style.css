@@ -1,0 +1,28 @@
+body{
+  background-image: url(Photo/picture.png);
+  background-size: cover;
+  font-family: 'Nunito', sans-serif;
+}
+.st{
+  font-size: 30px;
+  width: 500px;
+  text-align: justify;
+}
+button{
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background-color: tomato;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.sizeing{
+  margin-left: 585px;
+  margin-top: -425px;
+}
+.size{
+  margin-left: 584px;
+  margin-top: 0px;
+}
